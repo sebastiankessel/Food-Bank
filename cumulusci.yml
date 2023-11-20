@@ -2,7 +2,7 @@ minimum_cumulusci_version: '3.75.1'
 project:
     name: Food-Bank
     package:
-        name: Food Bank
+        name: Food-Bank
         namespace: FB_CS_SK
         api_version: '55.0'
     git:
